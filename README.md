@@ -11,7 +11,7 @@ https://www.github.com/JWilliams25400
 -------------------
 
 ## Description
-### This Project is my personal portfolio,as a progress in my journey to become a developer. learn more about me from the about me link as well as view my work as a develop and my progress as I enhance my knowledgeand capabilities. various projects are easily accessible by clicking with the project name.   
+### This Project is my personal portfolio showcasing my progress on my journey to become a developer, learn more about me from the about me link and view my work as a developer. As I enhance my knowledge and capabilities links will be provided. Access to my project are viewable by linking the links  in the My work section.   
 --------------------
 
 ## Technology
